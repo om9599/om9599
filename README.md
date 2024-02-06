@@ -1,20 +1,19 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
-
-<h1 align="center">Hi 👋, I'm Omkar Kumbhar</h1>
-<h3 align="center">Fresh Mind , Bold Ideas Ready Code Future</h3>
-img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/mRHT67FdQVRexx5x7.gif">
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<h1 align="center">Hi 👋, I'm Er. Omkar Kumbhar</h1>
+<h3 align="center">Fresh Mind, Bold Ideas, Ready Code Future.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b76118zbp41431ap3t6bhh2prk81np6gtzwzvyikn30vm&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om9599&label=Profile%20views&color=0e75b6&style=flat" alt="om9599" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native , Spring Boot**
+- 🌱 I’m currently learning **React Native , Spring Boot , Javascript**
 
-- 💬 Ask me about **Android , Ethical Hacking and Cyber security**
+- 💬 Ask me about **Java , Python , Android , Ethical Hacking and Cyber security**
 
 - 📫 How to reach me **okumbhar9091@gmail.com**
+
+- ⚡ Fact about me **I think I am passionate towards MY Goals.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
